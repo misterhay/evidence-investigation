@@ -1,6 +1,6 @@
 # Evidence and Investigation
 
-[introduction](introduction.html)
+[Introduction](introduction.html)
 
 [Suspect 1](suspect1.html)
 
